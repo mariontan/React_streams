@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "good",
+      "id": 1
+    },
+    {
+      "title": "othje Stream",
+      "description": "good   d",
+      "id": 2
+    }
+  ]
+}
